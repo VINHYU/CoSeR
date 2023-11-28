@@ -2,4 +2,4 @@
 
 The code will be released soon.
 
-![image](./favicon.png)
+<img src="./favicon.png" width="50%" />
