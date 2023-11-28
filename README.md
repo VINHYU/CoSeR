@@ -2,4 +2,6 @@
 
 The code will be released soon.
 
-<img src="./favicon.png" width="50%" />
+<div style="text-align: center; justify-content: center; align-items: center;">
+    <img src="./favicon2.png" style="width: 50%;" />
+</div>
