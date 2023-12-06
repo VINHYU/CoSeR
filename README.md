@@ -10,14 +10,15 @@
 
 Haoze Sun<sup>1</sup>, [Wenbo Li](https://fenglinglwb.github.io/)<sup>2,\*</sup>, [Jianzhuang Liu](https://people.ucas.ac.cn/~jzliu?language=en)<sup>2</sup>, [Haoyu Chen](https://haoyuchen.com/)<sup>3</sup>, Renjing Pei<sup>2</sup>, [Xueyi Zou](https://xueyizou.github.io/)<sup>2</sup>, Youliang Yan<sup>2</sup>, [Yujiu Yang](https://sites.google.com/view/iigroup-thu/home)<sup>1,\*</sup>
 
-(* corresponding authors) <br>
-<sup>1</sup>Tsinghua University<br><sup>2</sup>Huawei Noah’s Ark Lab<br><sup>3</sup>HKUST(GZ)
+<div align="center">
+<sup>1</sup>Tsinghua University <sup>2</sup>Huawei Noah’s Ark Lab <sup>3</sup>HKUST(GZ)
+</div>
 
 <p align="center">
     <img src="examples/framework.png" style="border-radius: 15px">
 </p>
 
-:star:If DiffBIR is helpful for you, please help star this repo. Thanks!:hugs:
+:star:If CoSeR is helpful for you, please help star this repo. Thanks!:hugs:
 
 ## <a name="visual_results"></a>:fireworks:Visual Comparisons
 
