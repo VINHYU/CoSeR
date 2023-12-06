@@ -18,7 +18,7 @@ Haoze Sun<sup>1</sup>, [Wenbo Li](https://fenglinglwb.github.io/)<sup>2,\*</sup>
     <img src="examples/framework.png" style="border-radius: 15px">
 </p>
 
-⭐If CoSeR is helpful for you, please help star this repo. Thanks!🤗
+⭐If you think CoSeR is helpful for you, please help star this repo. Thanks!🤗
 
 ## :fireworks:Visual Comparisons
 
@@ -30,7 +30,7 @@ Haoze Sun<sup>1</sup>, [Wenbo Li](https://fenglinglwb.github.io/)<sup>2,\*</sup>
 
 ## Citation
 
-Please cite us if our work is useful for your research.
+Please cite our work if you think it is useful for your research.
 
 ```
 @article{sun2023coser,
@@ -47,4 +47,4 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Contact
 
-If you have any questions, please feel free to contact with me at shz22@mails.tsinghua.edu.cn.
+If your have any comments or questions, feel free to contact shz22@mails.tsinghua.edu.cn.
