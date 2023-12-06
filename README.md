@@ -11,16 +11,16 @@
 Haoze Sun<sup>1</sup>, [Wenbo Li](https://fenglinglwb.github.io/)<sup>2,\*</sup>, [Jianzhuang Liu](https://people.ucas.ac.cn/~jzliu?language=en)<sup>2</sup>, [Haoyu Chen](https://haoyuchen.com/)<sup>3</sup>, Renjing Pei<sup>2</sup>, [Xueyi Zou](https://xueyizou.github.io/)<sup>2</sup>, Youliang Yan<sup>2</sup>, [Yujiu Yang](https://sites.google.com/view/iigroup-thu/home)<sup>1,\*</sup>
 
 <div align="center">
-<sup>1</sup>Tsinghua University <sup>2</sup>Huawei Noah’s Ark Lab <sup>3</sup>HKUST(GZ)
+<sup>1</sup>Tsinghua University &nbsp;&nbsp;<sup>2</sup>Huawei Noah’s Ark Lab &nbsp;&nbsp;<sup>3</sup>HKUST(GZ)
 </div>
 
 <p align="center">
     <img src="examples/framework.png" style="border-radius: 15px">
 </p>
 
-:star:If CoSeR is helpful for you, please help star this repo. Thanks!:hugs:
+⭐If CoSeR is helpful for you, please help star this repo. Thanks!🤗
 
-## <a name="visual_results"></a>:fireworks:Visual Comparisons
+## :fireworks:Visual Comparisons
 
 <!-- <details close>
 <summary>General Image Restoration</summary> -->
