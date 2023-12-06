@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="static/examples/favicon2.png" width="400">
+    <img src="examples/favicon2.png" width="400">
 </p>
 
 ## CoSeR: Bridging Image and Language for Cognitive Super-Resolution
@@ -14,7 +14,7 @@ Haoze Sun<sup>1</sup>, [Wenbo Li](https://fenglinglwb.github.io/)<sup>2,\*</sup>
 <sup>1</sup>Tsinghua University<br><sup>2</sup>Huawei Noah’s Ark Lab<br><sup>3</sup>HKUST(GZ)
 
 <p align="center">
-    <img src="static/examples/framework.png" style="border-radius: 15px">
+    <img src="examples/framework.png" style="border-radius: 15px">
 </p>
 
 :star:If DiffBIR is helpful for you, please help star this repo. Thanks!:hugs:
@@ -24,7 +24,7 @@ Haoze Sun<sup>1</sup>, [Wenbo Li](https://fenglinglwb.github.io/)<sup>2,\*</sup>
 <!-- <details close>
 <summary>General Image Restoration</summary> -->
 <p align="center">
-    <img src="static/examples/qual_results_v4_compressed.png" style="border-radius: 15px">
+    <img src="examples/qual_results_v4_compressed.png" style="border-radius: 15px">
 </p>
 
 ## Citation
