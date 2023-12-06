@@ -28,7 +28,7 @@ Haoze Sun<sup>1</sup>, [Wenbo Li](https://fenglinglwb.github.io/)<sup>2,\*</sup>
     <img src="examples/qual_results_v4_compressed.png" style="border-radius: 15px">
 </p>
 
-## Citation
+## 📎Citation
 
 Please cite our work if you think it is useful for your research.
 
@@ -41,10 +41,6 @@ Please cite our work if you think it is useful for your research.
 }
 ```
 
-## License
-
-This project is released under the [Apache 2.0 license](LICENSE).
-
-## Contact
+## 📭Contact
 
 If your have any comments or questions, feel free to contact shz22@mails.tsinghua.edu.cn.
