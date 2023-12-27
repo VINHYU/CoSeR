@@ -20,6 +20,11 @@ Haoze Sun<sup>1</sup>, [Wenbo Li](https://fenglinglwb.github.io/)<sup>2,\*</sup>
 
 ⭐If you think CoSeR is helpful for you, please help star this repo. Thanks!🤗
 
+## 🌈Real-world SR Results
+[<img src="examples/cover/bird1.png" height="223px"/>](https://imgsli.com/MjI4MzMx) [<img src="examples/cover/cat.png" height="223px"/>](https://imgsli.com/MjI4MzI5) [<img src="examples/cover/dog.png" height="223px"/>](https://imgsli.com/MjI4MzMw)
+
+[<img src="examples/cover/plant1.png" height="223px"/>](https://imgsli.com/MjI4MzM0) [<img src="examples/cover/bird2.png" height="223px"/>](https://imgsli.com/MjI4MzM1) [<img src="examples/cover/plant2.png" height="223px"/>](https://imgsli.com/MjI4MzQx)
+
 ## :fireworks:Visual Comparisons
 
 <!-- <details close>
@@ -27,12 +32,6 @@ Haoze Sun<sup>1</sup>, [Wenbo Li](https://fenglinglwb.github.io/)<sup>2,\*</sup>
 <p align="center">
     <img src="examples/qual_results_v4_compressed.png" style="border-radius: 15px">
 </p>
-
-## 🌈Real-world SR Results
-[<img src="examples/cover/bird1.png" height="223px"/>](https://imgsli.com/MjI4MzMx) [<img src="examples/cover/cat.png" height="223px"/>](https://imgsli.com/MjI4MzI5) [<img src="examples/cover/dog.png" height="223px"/>](https://imgsli.com/MjI4MzMw)
-
-[<img src="examples/cover/plant1.png" height="223px"/>](https://imgsli.com/MjI4MzM0) [<img src="examples/cover/bird2.png" height="223px"/>](https://imgsli.com/MjI4MzM1) [<img src="examples/cover/plant2.png" height="223px"/>](https://imgsli.com/MjI4MzQx)
-
 
 ## 📎Citation
 
