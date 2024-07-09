@@ -2,7 +2,7 @@
     <img src="examples/favicon2.png" width="400">
 </p>
 
-## CoSeR: Bridging Image and Language for Cognitive Super-Resolution
+## CoSeR: Bridging Image and Language for Cognitive Super-Resolution (CVPR 2024)
 
  <a href='https://arxiv.org/abs/2311.16512'><img src='https://img.shields.io/badge/arXiv-2311.16512-b31b1b.svg'></a> &nbsp;&nbsp;
  <a href='https://coser-main.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,14 +18,15 @@ Haoze Sun<sup>1</sup>, [Wenbo Li](https://fenglinglwb.github.io/)<sup>2,\*</sup>
     <img src="examples/framework.png" style="border-radius: 15px">
 </p>
 
-⭐If you think CoSeR is helpful for you, please help star this repo. Thanks!🤗
+## 📢 Notifications
+*We regret to inform you that due to the company's open-source policy, the official release date for CoSeR is yet to be determined. However, you can refer to the reproduction by [Tianhe Wu](https://github.com/TianheWu/CoSeR). We provide guidance throughout the reproduction process, and we sincerely appreciate the efforts Tianhe Wu has made in reproducing CoSeR. We apologize for any inconvenience this may cause to those interested in our work.*
 
-## 🌈Real-world SR Results
+## 🌈 Real-world SR Results
 [<img src="examples/cover/bird1.png" height="223px"/>](https://imgsli.com/MjI4MzMx) [<img src="examples/cover/cat.png" height="223px"/>](https://imgsli.com/MjI4MzI5) [<img src="examples/cover/dog.png" height="223px"/>](https://imgsli.com/MjI4MzMw)
 
 [<img src="examples/cover/plant1.png" height="223px"/>](https://imgsli.com/MjI4MzM0) [<img src="examples/cover/bird2.png" height="223px"/>](https://imgsli.com/MjI4MzM1) [<img src="examples/cover/plant2.png" height="223px"/>](https://imgsli.com/MjI4MzQx)
 
-## :fireworks:Visual Comparisons
+## :fireworks: Visual Comparisons
 
 <!-- <details close>
 <summary>General Image Restoration</summary> -->
@@ -33,7 +34,7 @@ Haoze Sun<sup>1</sup>, [Wenbo Li](https://fenglinglwb.github.io/)<sup>2,\*</sup>
     <img src="examples/qual_results_v4_compressed.png" style="border-radius: 15px">
 </p>
 
-## 📎Citation
+## 📎 Citation
 
 Please cite our work if you think it is useful for your research.
 
@@ -46,6 +47,6 @@ Please cite our work if you think it is useful for your research.
 }
 ```
 
-## 📭Contact
+## 📭 Contact
 
 If your have any comments or questions, feel free to contact shz22@mails.tsinghua.edu.cn.
