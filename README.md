@@ -1,3 +1,6 @@
+## 📣 Notifications
+*We regret to inform you that due to the company's open-source policy, the official release date for CoSeR is yet to be determined. However, you can refer to **[CoSeR reproducted by Tianhe Wu](https://github.com/TianheWu/CoSeR)**. We provide guidance throughout the reproduction process, and we sincerely appreciate the efforts Tianhe Wu has made in reproducing CoSeR. We apologize for any inconvenience this may cause to those interested in our work.*
+
 <p align="center">
     <img src="examples/favicon2.png" width="400">
 </p>
@@ -17,10 +20,6 @@ Haoze Sun<sup>1</sup>, [Wenbo Li](https://fenglinglwb.github.io/)<sup>2,\*</sup>
 <p align="center">
     <img src="examples/framework.png" style="border-radius: 15px">
 </p>
-
-
-## 📢 Notifications
-*We regret to inform you that due to the company's open-source policy, the official release date for CoSeR is yet to be determined. However, you can refer to **[CoSeR reproducted by Tianhe Wu](https://github.com/TianheWu/CoSeR)**. We provide guidance throughout the reproduction process, and we sincerely appreciate the efforts Tianhe Wu has made in reproducing CoSeR. We apologize for any inconvenience this may cause to those interested in our work.*
 
 ## 🌈 Real-world SR Results
 [<img src="examples/cover/bird1.png" height="223px"/>](https://imgsli.com/MjI4MzMx) [<img src="examples/cover/cat.png" height="223px"/>](https://imgsli.com/MjI4MzI5) [<img src="examples/cover/dog.png" height="223px"/>](https://imgsli.com/MjI4MzMw)
